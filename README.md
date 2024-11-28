@@ -15,7 +15,7 @@ Get Sources: Get the sources of the information provided by the AI.
 Streaming: Stream the AI's response in real-time or get the final response.
 Follow Conversations: Start a new conversation or follow up on an existing one.
 Usage
-php facebook_login.php
+php metaAi.php
 
 PHP Extensions: Your PHP installation has the necessary extensions like cURL enabled.
 Local Server (if needed): You can also place this script in a local server environment like XAMPP, WAMP, or Laravel Homestead.
